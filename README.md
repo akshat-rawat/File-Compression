@@ -1,6 +1,7 @@
 # File-Compression
 
-Python script that uses Huffman Coding for compressing files.
+Python script that uses **Huffman Coding** for compressing files.
+
 
 ### How does it work?
 -> Enter path of the file that you want to conmpress.
