@@ -4,7 +4,7 @@ Python script that uses **Huffman Coding** for compressing files.
 
 
 ### How does it work?
--> Enter path of the file that you want to conmpress.
+-> Enter path of the file that you want to compress.
 
 -> The script will make a compressed binary file in respond to the given file.
 
